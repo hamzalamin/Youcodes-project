@@ -15973,7 +15973,11 @@ h5.email-cont-text a:hover {
   color: #fff;
   border-radius: 0px 30px 30px 0px;
 }
-
+.map{
+  position: absolute;
+  left: 45%;
+  top: 30%;
+}
 .w3l-footer-16-main .subscribe button:hover {
   background: var(--secondary-color);
 }
@@ -17102,6 +17106,11 @@ button.owl-next {
   opacity: 1;
   background: transparent;
   color: #c3c2c2;
+}
+.copy{
+  position: absolute;
+  width: 1150px;
+  left: 100px;
 }
 
 /* //pagination blog page */
